@@ -9,7 +9,7 @@ The application demonstrates the REST API using Spring boot and MongoDB. The app
 * Eclipse Oxygen
 * Java1.8
 
-> Note: I am using mLab for MongoDB database
+> Note: I am using [mLab](https://mlab.com/) for MongoDB database
 
 ## Step to install
 
